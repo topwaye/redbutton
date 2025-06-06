@@ -21,7 +21,7 @@ WHAT IS LINUX?
 
 LINUX FRAMEWORK:
 
-                         passive code
+                        passive code
                 +----------------------------+
                 |                            |
                 |        stop device         |
@@ -29,7 +29,7 @@ LINUX FRAMEWORK:
                 |                            |
     cpu int 00: +----------------------------+
 
-                         active code
+                        active code
                 +----------------------------+
                 |                            |
                 |       start device         |
@@ -45,28 +45,28 @@ LINUX FRAMEWORK:
                 |                            |
     cpu int 80: +----------------------------+
 
-                          user code
+                         user code
                 +----------------------------+
                 |                            |
                 |      /usr/src/task1        |
                 |                            |
                 +----------------------------+
-			
-                          user code
+
+                         user code
                 +----------------------------+
                 |                            |
                 |      /usr/src/task2        |
                 |                            |
                 +----------------------------+
-			
-                          user code
+
+                         user code
                 +----------------------------+
                 |                            |
                 |      /usr/src/task3        |
                 |                            |
                 +----------------------------+
 			
-                          user code
+                         user code
                 +----------------------------+
                 |                            |
                 |      /usr/src/task4        |
