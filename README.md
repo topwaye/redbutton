@@ -1,5 +1,5 @@
 
-	Linux kernel release 1.2.xx
+	Red Button Linux kernel release 1.2.xx
 
 These are the release notes for linux version 1.2.  Read them carefully,
 as they tell you what this is all about, explain how to install the
