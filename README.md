@@ -27,7 +27,7 @@ LINUX FRAMEWORK:
             |        stop device         |
             |         /drivers           |
             |                            |
- cpu int 80 +----------------------------+ cpu int 00
+    cpu int 80 +----------------------------+ cpu int 00
 
                     active code
             +----------------------------+
