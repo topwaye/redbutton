@@ -1,5 +1,5 @@
 
-	Red Button Kernel
+	Red Button Operating System
 
 
 8086 FRAMEWORK:
