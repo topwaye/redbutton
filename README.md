@@ -19,6 +19,29 @@ WHAT IS LINUX?
   It is distributed under the GNU General Public License - see the
   accompanying COPYING file for more details. 
 
+8086 FRAMEWORK:
+
+                        passive code
+                +----------------------------+
+                |                            |
+                |        stop device         |
+                |         /drivers           |
+                |                            |
+    cpu int 66: +----------------------------+
+
+                        active code
+                +----------------------------+
+                |                            |
+                |       start device         |
+                |        /drivers            |
+                |                            |
+                +----------------------------+
+
+
+DOCUMENTATION:
+  It is distributed under the GNU General Public License - see the
+  accompanying COPYING file for more details. 
+
 LINUX FRAMEWORK:
 
                         passive code
