@@ -29,7 +29,7 @@ LINUX FRAMEWORK LOGIC:
                 |        stop device         |
                 |         /drivers           |
                 |                            |
-    cpu int 00: +----------------------------+
+    cpu int 66: +----------------------------+
 
                         active code
                 +----------------------------+
