@@ -2,7 +2,7 @@
 	Red Button Operating System
 
 
-8086 FRAMEWORK:
+8086 FRAMEWORK LOGIC:
 
                         passive code
                 +----------------------------+
@@ -21,7 +21,7 @@
                 +----------------------------+
 
 
-LINUX FRAMEWORK:
+LINUX FRAMEWORK LOGIC:
 
                         passive code
                 +----------------------------+
